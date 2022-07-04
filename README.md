@@ -1,2 +1,2 @@
 # ImgMinify.co
-project link: [imgminify.co](https://reactjs.org/)
+project link: [imgminify.co](https://imgminify.co/){:target="_blank"}
