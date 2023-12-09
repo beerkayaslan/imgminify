@@ -7,9 +7,6 @@ export default function Header({featuresHandleClick}){
             <span class="transition-all text-lg text-gray-300 hover:text-white cursor-pointer select-none">Home</span>
                 <span className="transition-all text-lg text-gray-300 hover:text-white cursor-pointer select-none" onClick={featuresHandleClick}>Features</span>
             </nav>
-            <div>
-                <a className="text-gray-100 rounded-full block" target="_blank" rel="noreferrer noopener" href="https://github.com/beerkayaslan"><BsGithub size={32} /></a>
-            </div>
         </header>
     )
 }
