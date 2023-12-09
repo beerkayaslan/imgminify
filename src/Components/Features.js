@@ -23,7 +23,6 @@ const Features = forwardRef((props,ref) => {
                     <div className="rounded-lg overflow-hidden">
                         <BeforeAfterSlider
                             before={BeforeImg}
-                            after={AfterImg}
                             width={540}
                             height={330}
                             className={"before-after-slider"}
